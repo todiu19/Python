@@ -1,0 +1,6 @@
+inp = input()
+a = int(inp[0])
+b = int(inp[4])
+c = int(inp[8])
+if a+b == c: print("YES")
+else : print("NO")
