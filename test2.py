@@ -10,5 +10,5 @@ while n>0:
                 print("* ",end= "")
             else : print("  ",end= "")
     print()
-    n-=1
+    n-=2
         
