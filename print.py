@@ -1,3 +1,3 @@
 print("Hello")
 s = "HHHHHHHHHHHHHHHHHHHHHHHHH"
-print(len(s))
+print(len(s)+ " hello")
