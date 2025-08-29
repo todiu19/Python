@@ -51,4 +51,5 @@ print(any(c.isalpha() for c in s))   # Dòng 2: có ký tự chữ
 print(any(c.isdigit() for c in s))   # Dòng 3: có chữ số
 print(any(c.islower() for c in s))   # Dòng 4: có chữ thường
 print(any(c.isupper() for c in s))   # Dòng 5: có chữ hoa
-
+# Căn giữa, trái, phải cho chuỗi
+# .center(15,'-'), .ljust(15,"-"), .rjust(15,"-")
