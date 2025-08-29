@@ -1,3 +1,8 @@
+
+# Đi vào đúng thư mục repo Git
+cd "/Users/tonguyen/Documents/III-1/Python" || exit
+#!/bin/bash
+
 git add .
 
 # Commit với thời gian hiện tại làm message
